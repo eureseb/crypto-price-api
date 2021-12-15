@@ -1,1 +1,1 @@
-# crypto-price-scraper-app
+# Crypto Price Scraper - Webapp
