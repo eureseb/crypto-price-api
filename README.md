@@ -1,2 +1,2 @@
 # Crypto Price API
-Cheerio to scrape price data from coinmarketcap.com and Axios to make a simple api. 
+A simple API with crypto data scraped from CoinMarketCap.com. 
